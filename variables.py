@@ -18,3 +18,14 @@ TEST = "shristi"
 print(test)
 print(test10)
 print(TEST)
+
+# invalid way
+# $shristi="testing"
+a = 10
+b = 1
+c = 100
+a,b,c = 10,1,100
+print(a,b,c)
+print(a)
+print(b)
+print(c)

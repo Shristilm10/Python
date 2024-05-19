@@ -83,3 +83,10 @@ print(not(2==3))
 
 # note- and has higher precedence than or
 
+# identify operator
+# is is not
+a = 10
+b = 10
+print("this is operatoer of is",a is b)
+print("this is operatoer of is not ",a is not b)
+

@@ -20,4 +20,5 @@ while(num!=n):
         break
     num = int(input("guess the number: "))
     total = total+1
-print(f'congratulation you guess on {total}time')
+if num ==n:
+ print(f'congratulation you guess on {total}time')

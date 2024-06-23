@@ -77,3 +77,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# wap to find the fibonacci series of 10 terms using recursion
